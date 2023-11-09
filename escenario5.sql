@@ -1,4 +1,4 @@
-#Escenario 5: 
+#Escenario 5: Consultar cual fué el alimento más caro comprado en cierto día
 
 #Fecha: 2023-10-10
 
